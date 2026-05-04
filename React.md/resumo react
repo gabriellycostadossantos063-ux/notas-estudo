@@ -1,0 +1,6 @@
+React é a biblioteca de componentes
+O React é uma biblioteca de JavaScript focada em criar interfaces. Em vez de escrever uma página gigante, você cria pequenos componentes reutilizáveis (como um botão ou uma barra de busca).
+JSX: Uma forma de escrever HTML diretamente dentro do JavaScript.
+ Props: Como passamos informações de um componente "pai" para um "filho".
+ State (useState): O "cérebro" do componente. Quando o estado muda, o React atualiza a tela automaticamente para refletir essa mudança.
+ Vite:Uma ferramenta de construção, cria e roda seus projetos React.

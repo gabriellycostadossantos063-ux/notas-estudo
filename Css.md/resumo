@@ -1,0 +1,5 @@
+O css é o esqueleto do HTML, é o estilo (A Apârencia)
+Ele cuida de cores, fontes, espaçamentos e posicionamento
+Box Model: Todo elemento HTML é visto como uma "caixa" composta por: content, padding, border e margin.
+ Flexbox e Grid: Ferramentas modernas para alinhar elementos de forma adaptval (que se ajusta o celular ).
+  Seletores: Como você "chama" o elemento para estilizar (pela tag, pela .classe ou pelo #id).

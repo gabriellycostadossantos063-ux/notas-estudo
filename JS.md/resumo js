@@ -1,0 +1,5 @@
+JavaScript (JS) é a lógica (O Comportamento)
+O JavaScript é a linguagem que traz vida ao site. É com ele que criamos interatividade, como validação de formulários, cálculos e carregamento de dados sem atualizar a página.
+ DOM: O JS manipula o "Document Object Model", permitindo alterar o HTML e o CSS em tempo real.
+ Fundamentos: Variáveis (let, const), funções, loops e condições (if/else).
+Modernidade: O uso de Arrow Functions e métodos de array como .map() e .filter() é a base para o que fazemos hoje no React
